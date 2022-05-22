@@ -1,0 +1,17 @@
+{
+  "name": "pexess/orm",
+  "autoload": {
+    "psr-4": {
+      "Pexess\\ORM\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Omar Baabouj",
+      "email": "baabouj.dev@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  }
+}
